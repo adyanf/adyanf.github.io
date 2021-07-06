@@ -18,6 +18,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="twaexample://share?text=helloworld"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Deeplink Test
+        </a>
       </header>
     </div>
   );
