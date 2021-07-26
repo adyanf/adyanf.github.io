@@ -12,7 +12,7 @@
     "target" : { 
       "namespace": "android_app", 
       "package_name": "io.github.adyanf.twa",
-      "sha256_cert_fingerprints": ["81:42:3E:94:4F:BC:2A:D6:38:23:E9:46:79:4C:02:EF:15:EF:5D:AE:4C:A3:16:6B:2C:54:65:A2:A4:41:7A:21"] 
+      "sha256_cert_fingerprints": ["C2:4C:33:84:F5:CA:99:38:54:1B:11:88:1C:1E:2D:17:FD:30:35:28:0E:32:18:1D:4A:BC:8A:2E:CD:F3:8B:4A"] 
     }
   }
 ]
