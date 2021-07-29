@@ -11,7 +11,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { 
       "namespace": "android_app", 
-      "package_name": "io.github.adyanf.twa",
+      "package_name": "com.bukalapak.saas.debug",
       "sha256_cert_fingerprints": ["C2:4C:33:84:F5:CA:99:38:54:1B:11:88:1C:1E:2D:17:FD:30:35:28:0E:32:18:1D:4A:BC:8A:2E:CD:F3:8B:4A"] 
     }
   }
